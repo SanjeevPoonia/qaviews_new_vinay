@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="30.081" height="29.5" viewBox="0 0 30.081 29.5">
+  <g id="Group_24297" data-name="Group 24297" transform="translate(-1556.85 -27)">
+    <path id="Icon_awesome-bell" data-name="Icon awesome-bell" d="M12.39,28.32a3.539,3.539,0,0,0,3.538-3.54H8.852A3.539,3.539,0,0,0,12.39,28.32ZM24.3,20.039c-1.069-1.148-3.068-2.876-3.068-8.534a8.735,8.735,0,0,0-7.077-8.582V1.77a1.769,1.769,0,1,0-3.538,0V2.923a8.735,8.735,0,0,0-7.077,8.582c0,5.658-2,7.386-3.068,8.534A1.728,1.728,0,0,0,0,21.24a1.772,1.772,0,0,0,1.776,1.77H23a1.771,1.771,0,0,0,1.776-1.77,1.727,1.727,0,0,0-.476-1.2Z" transform="translate(1556.85 28.18)" fill="#fff"/>
+    <circle id="Ellipse_384" data-name="Ellipse 384" cx="7" cy="7" r="7" transform="translate(1572.931 27)" fill="#fedf00"/>
+    <text id="_10" data-name="10" transform="translate(1579.931 37)" fill="#fff" font-size="8" font-family="Montserrat-SemiBold, Montserrat" font-weight="600"><tspan x="-4" y="0">10</tspan></text>
+  </g>
+</svg>
